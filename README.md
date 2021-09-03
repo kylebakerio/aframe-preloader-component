@@ -1,3 +1,10 @@
+Just another necro library. Got a working example with 1.2.0 going here: 
+https://old-aframe-loading-proj.glitch.me/
+
+No changes were needed to the library, just updating some sources in the demo to move it to glitch. Went as far as hunting down an old bootstrap theme file he had referenced and manually copy/pasting it to git his example working (the "slate" theme).
+
+original readme continues:
+
 ## aframe-preloader-component
 
 [![Version](http://img.shields.io/npm/v/@gladeye/aframe-preloader-component.svg?style=flat-square)](https://npmjs.org/package/@gladeye/aframe-preloader-component)
